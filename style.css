@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #4F7CAC;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 7.5%; 
+    margin-right: 7.5%;
+    border-style: solid;
+    border-color: #3C474B;
+    background-color: #C0E0DE;
+    border-radius: 0.7em;
+}
+
+.sub-container {
+    text-align: center;
+    margin-left: 5%; 
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.img {
+    border-radius: 0.7em;
+    border-style: solid;
+    border-color: #3C474B;
+}
